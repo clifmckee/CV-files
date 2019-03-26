@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.1.11)  22 FEB 2019 12:52
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.1.11)  26 MAR 2019 10:28
 entering extended mode
 **./McKee-CV.tex
 (McKee-CV.tex
@@ -807,15 +807,9 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 307.
  (McKee-CV.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 307.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 307.
+Package rerunfilecheck Info: File `McKee-CV.out' has not changed.
+(rerunfilecheck)             Checksum: E935A89AC37FC90E2DD2957DECF49A86.
 
-
-Package rerunfilecheck Warning: File `McKee-CV.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `McKee-CV.out':
-(rerunfilecheck)             Before: 529F3070E3BAFFB2345D9C182B4E2D46
-(rerunfilecheck)             After:  E935A89AC37FC90E2DD2957DECF49A86.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
@@ -828,7 +822,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 307.
 Here is how much of TeX's memory you used:
  20687 strings out of 427748
  381831 string characters out of 3147200
- 501668 words of memory out of 3000000
+ 502184 words of memory out of 3000000
  24615 multiletter control sequences out of 15000+200000
  536085 words of font info for 63 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
