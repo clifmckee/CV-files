@@ -1,7 +1,7 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.1.11)  6 JUL 2020 15:52
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.1.11)  1 NOV 2019 18:08
 entering extended mode
-**./McKee-CV.tex
-(McKee-CV.tex
+**./McKee-references.tex
+(McKee-references.tex
 LaTeX2e <2018-12-01>
 (deedy-resume.cls
 Document Class: deedy-resume 2014/04/30 CV class
@@ -541,8 +541,8 @@ Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
 ("C:\Users\Clif\AppData\Local\Programs\MiKTeX 2.9\tex/latex/marvosym\marvosym.s
 ty"
 Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
-) (McKee-CV.aux)
-\openout1 = `McKee-CV.aux'.
+) (McKee-references.aux)
+\openout1 = `McKee-references.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
@@ -612,9 +612,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 28.
 LaTeX Info: Redefining \pageref on input line 28.
 LaTeX Info: Redefining \nameref on input line 28.
- (McKee-CV.out) (McKee-CV.out)
+ (McKee-references.out) (McKee-references.out)
 \@outlinefile=\write3
-\openout3 = `McKee-CV.out'.
+\openout3 = `McKee-references.out'.
 
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
@@ -682,31 +682,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 ABD: EveryShipout initializing macros
 isodate: babel.sty, (n)german.sty have not been loaded
 
-Package fontspec Info: Font family 'Raleway-ExtraLight(1)' created for font
-(fontspec)             'Raleway-ExtraLight' with options [Path =
-(fontspec)             fonts/raleway/].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[fonts/raleway/Raleway-ExtraLight]/OT:script=latn;la
-nguage=DFLT;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->"[fonts/raleway/Raleway-ExtraLight]/OT:script=latn;la
-nguage=DFLT;+smcp;"
-
-
-Package fontspec Info: Font family 'Lato-Hai(0)' created for font 'Lato-Hai'
-(fontspec)             with options [Path = fonts/lato/].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[fonts/lato/Lato-Hai]/OT:script=latn;language=DFLT;"
-
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+LaTeX Font Warning: Font shape `TU/Lato-Lig(0)/m/sc' undefined
+(Font)              using `TU/Lato-Lig(0)/m/n' instead on input line 35.
 
 
 Package fontspec Info: Font family 'Lato-Lig(1)' created for font 'Lato-Lig'
@@ -721,32 +698,8 @@ Package fontspec Info: Font family 'Lato-Lig(1)' created for font 'Lato-Lig'
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 
-Package fontspec Info: Font family 'Raleway-Medium(0)' created for font
-(fontspec)             'Raleway-Medium' with options [Path = fonts/raleway/].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[fonts/raleway/Raleway-Medium]/OT:script=latn;langua
-ge=DFLT;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->"[fonts/raleway/Raleway-Medium]/OT:script=latn;langua
-ge=DFLT;+smcp;"
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 44.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 44.
-LaTeX Font Info:    Try loading font information for U+mvs on input line 44.
-("C:\Users\Clif\AppData\Local\Programs\MiKTeX 2.9\tex/latex/marvosym\umvs.fd")
-
-LaTeX Font Warning: Font shape `TU/Lato-Lig(0)/m/sc' undefined
-(Font)              using `TU/Lato-Lig(0)/m/n' instead on input line 51.
-
-
 LaTeX Font Warning: Font shape `TU/Lato-Lig(1)/m/sc' undefined
-(Font)              using `TU/Lato-Lig(1)/m/n' instead on input line 51.
+(Font)              using `TU/Lato-Lig(1)/m/n' instead on input line 35.
 
 
 ("C:\Users\Clif\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\se-ascii
@@ -754,78 +707,40 @@ LaTeX Font Warning: Font shape `TU/Lato-Lig(1)/m/sc' undefined
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 )
-LaTeX Font Info:    Calculating math sizes for size <16> on input line 95.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <16> not available
-(Font)              size <17.28> substituted on input line 95.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 95.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <16> on input line 95.
+(Font)              <7> on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <11.19995> on input line 95.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 95.
+(Font)              <5> on input line 36.
+LaTeX Font Info:    Try loading font information for U+mvs on input line 38.
 
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 95.
+("C:\Users\Clif\AppData\Local\Programs\MiKTeX 2.9\tex/latex/marvosym\umvs.fd")
+Overfull \hbox (394.32504pt too wide) in paragraph at lines 36--51
+[][] 
+ []
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 95.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cdot' on input line 95.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 95.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 95.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cdot' on input line 95.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 95.
-
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 52.
 [1
 
-] [2] [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 317.
- [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 317.
- (McKee-CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 317.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 317.
-Package rerunfilecheck Info: File `McKee-CV.out' has not changed.
-(rerunfilecheck)             Checksum: B91D4843FFDD5AF07D042A5CB7F88A45.
-
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 1.28pt have occurred.
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 52.
+ (McKee-references.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 52.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 52.
+Package rerunfilecheck Info: File `McKee-references.out' has not changed.
+(rerunfilecheck)             Checksum: 6843187AA006C3BE431DDADE28DDF239.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 317.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 52.
  ) 
 Here is how much of TeX's memory you used:
- 20687 strings out of 427748
- 381831 string characters out of 3147200
- 501118 words of memory out of 3000000
- 24615 multiletter control sequences out of 15000+200000
- 536085 words of font info for 63 fonts, out of 3000000 for 9000
+ 20617 strings out of 427748
+ 379845 string characters out of 3147200
+ 481378 words of memory out of 3000000
+ 24568 multiletter control sequences out of 15000+200000
+ 533231 words of font info for 40 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 54i,9n,119p,504b,443s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 54i,9n,119p,330b,443s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on McKee-CV.pdf (4 pages).
+Output written on McKee-references.pdf (1 page).
