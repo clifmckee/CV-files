@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.1.11)  6 JUL 2020 16:11
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.1.11)  8 NOV 2020 14:54
 entering extended mode
 **./McKee-CV.tex
 (McKee-CV.tex
@@ -801,12 +801,12 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 [1
 
 ] [2] [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 317.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 320.
  [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 317.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 320.
  (McKee-CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 317.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 317.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 320.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 320.
 Package rerunfilecheck Info: File `McKee-CV.out' has not changed.
 (rerunfilecheck)             Checksum: B91D4843FFDD5AF07D042A5CB7F88A45.
 
@@ -817,7 +817,7 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 317.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 320.
  ) 
 Here is how much of TeX's memory you used:
  20687 strings out of 427748
