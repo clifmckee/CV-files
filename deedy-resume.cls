@@ -17,11 +17,11 @@
 
 \usepackage[usenames,dvipsnames]{xcolor} % Required for custom colors
 
-\definecolor{primary}{HTML}{2b2b2b} % The primary document color for content text
-\definecolor{headings}{HTML}{6A6A6A} % The color of the large sections default was 6A6A6A
-\definecolor{subheadings}{HTML}{333333} % The color of subsections and places worked/studied
-\definecolor{date}{HTML}{666666} % The color used for the Last Updated text at the top right
-\definecolor{special}{HTML}{BF5700} %color for special heading.. I did this
+\definecolor{primary}{HTML}{000000} % The primary document color for content text
+\definecolor{headings}{HTML}{000000} % The color of the large sections default was 6A6A6A
+\definecolor{subheadings}{HTML}{000000} % The color of subsections and places worked/studied
+\definecolor{date}{HTML}{000000} % The color used for the Last Updated text at the top right
+\definecolor{special}{HTML}{D55E00} %color for special heading.. I did this
 
 %----------------------------------------------------------------------------------------
 %	FONTS
