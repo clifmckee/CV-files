@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.2.11)  6 JAN 2022 21:17
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.2.11)  22 APR 2022 17:03
 entering extended mode
 **./McKee-CV.tex
 (McKee-CV.tex
@@ -703,12 +703,12 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 180.
 
 [3] [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 341.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 343.
  [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 341.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 343.
  (McKee-CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 341.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 341.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 343.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 343.
 Package rerunfilecheck Info: File `McKee-CV.out' has not changed.
 (rerunfilecheck)             Checksum: 02FE437AD10FE58118045767EE0A6833;725.
 
@@ -719,7 +719,7 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 341.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 343.
  ) 
 Here is how much of TeX's memory you used:
  12607 strings out of 414621
@@ -728,6 +728,6 @@ Here is how much of TeX's memory you used:
  29567 multiletter control sequences out of 15000+200000
  536157 words of font info for 72 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 54i,12n,120p,596b,340s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 54i,12n,120p,611b,340s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on McKee-CV.pdf (5 pages).
