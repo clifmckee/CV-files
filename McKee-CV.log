@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.2.11)  27 JUL 2022 11:46
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.2.11)  27 SEP 2022 09:58
 entering extended mode
 **./McKee-CV.tex
 (McKee-CV.tex
@@ -650,7 +650,7 @@ c/stringenc/se-ascii-print.def"
 File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 
 )
-Underfull \hbox (badness 3872) in paragraph at lines 149--150
+Underfull \hbox (badness 3872) in paragraph at lines 153--154
 []|\TU/Lato-Lig(0)/b/n/10 McKee CD\TU/Lato-Lig(0)/m/sc/10 , Kosoy MY, Bai Y, Os
 ikowicz LM, Franka R, Gilbert AT, Boonmar S, Rupprecht CE, Pe-
  []
@@ -658,57 +658,57 @@ ikowicz LM, Franka R, Gilbert AT, Boonmar S, Rupprecht CE, Pe-
 [1
 
 ] [2]
-LaTeX Font Info:    Calculating math sizes for size <16> on input line 185.
+LaTeX Font Info:    Calculating math sizes for size <16> on input line 189.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <16> not available
-(Font)              size <17.28> substituted on input line 185.
+(Font)              size <17.28> substituted on input line 189.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 185.
+(Font)              size <17.28> substituted on input line 189.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <16> on input line 185.
+(Font)              <16> on input line 189.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <11.19995> on input line 185.
+(Font)              <11.19995> on input line 189.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 185.
+(Font)              <8> on input line 189.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 185.
+(Font)              size <17.28> substituted on input line 189.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 185.
+(hyperref)                removing `math shift' on input line 189.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cdot' on input line 185.
+(hyperref)                removing `\cdot' on input line 189.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 185.
+(hyperref)                removing `math shift' on input line 189.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 185.
+(hyperref)                removing `math shift' on input line 189.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cdot' on input line 185.
+(hyperref)                removing `\cdot' on input line 189.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 185.
+(hyperref)                removing `math shift' on input line 189.
 
 [3] [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 350.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 357.
  [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 350.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 357.
  (McKee-CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 350.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 350.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 357.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 357.
 Package rerunfilecheck Info: File `McKee-CV.out' has not changed.
 (rerunfilecheck)             Checksum: 02FE437AD10FE58118045767EE0A6833;725.
 
@@ -719,15 +719,15 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 350.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 357.
  ) 
 Here is how much of TeX's memory you used:
  12607 strings out of 414621
  236677 string characters out of 2903557
- 571400 words of memory out of 3000000
+ 572400 words of memory out of 3000000
  29567 multiletter control sequences out of 15000+200000
  536157 words of font info for 72 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 54i,12n,120p,603b,340s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 54i,12n,120p,603b,457s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on McKee-CV.pdf (5 pages).
