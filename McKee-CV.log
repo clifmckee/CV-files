@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.2.11)  27 SEP 2022 09:58
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.2.11)  18 OCT 2022 16:24
 entering extended mode
 **./McKee-CV.tex
 (McKee-CV.tex
@@ -650,6 +650,13 @@ c/stringenc/se-ascii-print.def"
 File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 
 )
+Underfull \hbox (badness 1281) in paragraph at lines 105--106
+[]|\TU/Lato-Lig(0)/m/sc/10 Kejikova R, \TU/Lato-Lig(0)/b/n/10 McKee C\TU/Lato-L
+ig(0)/m/sc/10 , Strakova P, Sikutova S, Mendel J, Rudolf I. First detection of 
+\TU/Lato-Lig(0)/m/it/10 Bartonella \TU/Lato-Lig(0)/m/sc/10 spp. in
+ []
+
+
 Underfull \hbox (badness 3872) in paragraph at lines 153--154
 []|\TU/Lato-Lig(0)/b/n/10 McKee CD\TU/Lato-Lig(0)/m/sc/10 , Kosoy MY, Bai Y, Os
 ikowicz LM, Franka R, Gilbert AT, Boonmar S, Rupprecht CE, Pe-
