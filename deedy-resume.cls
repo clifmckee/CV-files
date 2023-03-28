@@ -100,3 +100,7 @@ Last Updated on \today % Last Updated text
 \newenvironment{tightitemize} % Defines the tightitemize environment which modifies the itemize environment to be more compact
 {\vspace{-\topsep}\begin{itemize}\itemsep1pt \parskip0pt \parsep0pt}
 {\end{itemize}\vspace{-\topsep}}
+
+\newenvironment{tightenumerate} % Defines the tightitemize environment which modifies the itemize environment to be more compact
+{\vspace{-\topsep}\begin{enumerate}\itemsep1pt \parskip0pt \parsep0pt}
+{\end{enumerate}\vspace{-\topsep}}
