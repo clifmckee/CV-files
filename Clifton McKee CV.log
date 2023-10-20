@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2023.1.10)  1 SEP 2023 22:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2023.1.10)  20 OCT 2023 18:08
 entering extended mode
 **"./Clifton McKee CV.tex"
 ("Clifton McKee CV.tex"
@@ -505,60 +505,72 @@ g/pdftex.map}
 
 ] [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 172.
- [3] [4]
-Overfull \hbox (0.90767pt too wide) in paragraph at lines 208--209
+(Font)              <10.95> on input line 174.
+
+Overfull \hbox (9.62141pt too wide) in paragraph at lines 178--179
+\OT1/cmr/m/n/12 Mod-el-ing Hub. \OT1/cmr/m/it/12 Ac-cepted at Na-ture Com-mu-ni
+-ca-tions\OT1/cmr/m/n/12 . 2023. DOI: [][]10.1101/2023.06.28.23291998[][] 
+ []
+
+[3] [4]
+Overfull \hbox (0.90767pt too wide) in paragraph at lines 212--213
 []\OT1/cmr/bx/n/12 McKee CD$[]$\OT1/cmr/m/n/12 , Krawczyk AI, Sandor AD, Gorf
 ol T, Foldvari M, Foldvari G, Dekeukeleire
  []
 
 [5] [6] [7]
-Overfull \hbox (3.0pt too wide) in paragraph at lines 294--298
+Overfull \hbox (3.0pt too wide) in paragraph at lines 296--300
 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 294--298
+Underfull \hbox (badness 10000) in paragraph at lines 296--300
 
  []
 
 
-Overfull \hbox (4.32768pt too wide) in paragraph at lines 313--314
+Overfull \hbox (4.32768pt too wide) in paragraph at lines 315--316
 \OT1/cmr/m/n/12 Niu, Yan-nan $\OMS/cmsy/m/n/12 $ \OT1/cmr/m/n/12 Mas-ter of Pu
 b-lic Health Stu-dent Re-search As-sis-tant $\OMS/cmsy/m/n/12 $ \OT1/cmr/m/n/1
 2 Johns Hop-kins Bloomberg
  []
 
 [8]
-Overfull \hbox (4.36234pt too wide) in paragraph at lines 420--426
-\OT1/cmr/m/n/12 Project Ti-tle: Safety and Health-care Epi-demi-ol-ogy Pre-ven-
-tion Re-search De-vel-op-ment (SHEP-
+Overfull \hbox (2.95815pt too wide) in paragraph at lines 422--428
+\OT1/cmr/m/n/12 Main Grant Ob-jec-tive: Pro-vide sup-port for field work, data 
+anal-y-sis, and writ-ing manuscripts;
  []
 
 [9]
-Overfull \hbox (2.95815pt too wide) in paragraph at lines 427--433
+Overfull \hbox (4.36234pt too wide) in paragraph at lines 429--435
+[]\OT1/cmr/m/n/12 Project Ti-tle: Safety and Health-care Epi-demi-ol-ogy Pre-ve
+n-tion Re-search De-vel-op-ment (SHEP-
+ []
+
+
+Overfull \hbox (2.95815pt too wide) in paragraph at lines 436--442
 \OT1/cmr/m/n/12 Main Grant Ob-jec-tive: Pro-vide sup-port for field work, data 
 anal-y-sis, and writ-ing manuscripts;
  []
 
 [10] [11]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 528.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 541.
  [12]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 528.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 541.
  ("Clifton McKee CV.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 528.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 528.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 541.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 541.
 Package rerunfilecheck Info: File `"Clifton McKee CV".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 7308 strings out of 481569
- 116358 string characters out of 2905893
- 398941 words of memory out of 3000000
- 22399 multiletter control sequences out of 15000+200000
+ 7309 strings out of 481569
+ 116374 string characters out of 2905893
+ 397941 words of memory out of 3000000
+ 22400 multiletter control sequences out of 15000+200000
  537509 words of font info for 41 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,12n,49p,1050b,448s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 47i,12n,49p,1050b,447s stack positions out of 5000i,500n,10000p,200000b,50000s
  </Users/clifmckee/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/lj
 four/jknappen/ec/dpi600/tcrm0800.pk></Users/clifmckee/Library/Application Suppo
 rt/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/clif
@@ -572,7 +584,7 @@ KTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/clifmckee
 /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/
 cm/cmti12.pfb></Users/clifmckee/Library/Application Support/MiKTeX/texmfs/insta
 ll/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "Clifton McKee CV.pdf" (12 pages, 152386 bytes).
+Output written on "Clifton McKee CV.pdf" (12 pages, 155111 bytes).
 PDF statistics:
  146 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 500000)
