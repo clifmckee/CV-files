@@ -54,6 +54,13 @@
 	}
 }
 
+% Third section name and head
+\newcommand{\partthree}[1]{%
+	\textbf{
+	\centerline{PART III}
+	}
+}
+
 
 %----------------------------------------------------------------------------------------
 %	Paragraph formatting
