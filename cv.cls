@@ -1,5 +1,5 @@
 \ProvidesClass{cv}
-\LoadClass[12pt]{article}
+\LoadClass[11pt]{article}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %	PACKAGES AND PREAMBLE
