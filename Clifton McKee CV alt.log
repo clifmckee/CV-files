@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2023.1.10)  13 JUN 2025 13:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2023.1.10)  1 JUL 2025 12:33
 entering extended mode
 **"./Clifton McKee CV alt.tex"
 ("Clifton McKee CV alt.tex"
@@ -519,12 +519,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 313--317
  []
 
 [9] [10] [11] [12] [13]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 584.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 585.
  [14]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 584.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 585.
  ("Clifton McKee CV alt.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 584.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 584.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 585.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 585.
 Package rerunfilecheck Info: File `"Clifton McKee CV alt".out' has not changed.
 
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -554,7 +554,7 @@ ation Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb><
 /Users/clifmckee/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/
 public/amsfonts/cm/cmti12.pfb></Users/clifmckee/Library/Application Support/MiK
 TeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "Clifton McKee CV alt.pdf" (14 pages, 201218 bytes).
+Output written on "Clifton McKee CV alt.pdf" (14 pages, 200691 bytes).
 PDF statistics:
  189 PDF objects out of 1000 (max. 8388607)
  15 named destinations out of 1000 (max. 500000)
