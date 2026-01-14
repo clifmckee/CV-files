@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2023.1.10)  5 JAN 2026 11:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2023.1.10)  14 JAN 2026 12:58
 entering extended mode
 **"./Clifton McKee CV.tex"
 ("Clifton McKee CV.tex"
@@ -519,18 +519,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 327--331
  []
 
 [9] [10] [11]
-Overfull \hbox (1.64311pt too wide) in paragraph at lines 506--507
+Overfull \hbox (1.64311pt too wide) in paragraph at lines 513--514
 \OT1/cmr/m/n/10.95 Bats, bugs, and bio-surveil-lance: de-vel-op-ing One Health 
 sys-tems to un-der-stand and pre-vent pathogen
  []
 
 [12] [13] [14]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 603.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 610.
  [15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 603.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 610.
  ("Clifton McKee CV.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 603.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 603.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 610.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 610.
 Package rerunfilecheck Info: File `"Clifton McKee CV".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
@@ -559,7 +559,7 @@ ation Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb><
 /Users/clifmckee/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/
 public/amsfonts/cm/cmti12.pfb></Users/clifmckee/Library/Application Support/MiK
 TeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "Clifton McKee CV.pdf" (15 pages, 203947 bytes).
+Output written on "Clifton McKee CV.pdf" (15 pages, 205132 bytes).
 PDF statistics:
  197 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)

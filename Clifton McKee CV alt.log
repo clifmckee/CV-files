@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2023.1.10)  5 JAN 2026 11:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2023.1.10)  14 JAN 2026 12:58
 entering extended mode
 **"./Clifton McKee CV alt.tex"
 ("Clifton McKee CV alt.tex"
@@ -518,20 +518,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 327--331
 
  []
 
-[9] [10] [11] [12] [13]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 602.
- [14]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 602.
+[9] [10] [11] [12] [13] [14]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 609.
+ [15]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 609.
  ("Clifton McKee CV alt.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 602.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 602.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 609.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 609.
 Package rerunfilecheck Info: File `"Clifton McKee CV alt".out' has not changed.
 
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 7316 strings out of 481569
- 116501 string characters out of 2905893
+ 7317 strings out of 481569
+ 116508 string characters out of 2905893
  398979 words of memory out of 3000000
  22404 multiletter control sequences out of 15000+200000
  537588 words of font info for 41 fonts, out of 3000000 for 9000
@@ -554,9 +554,9 @@ ation Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb><
 /Users/clifmckee/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/
 public/amsfonts/cm/cmti12.pfb></Users/clifmckee/Library/Application Support/MiK
 TeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "Clifton McKee CV alt.pdf" (14 pages, 204319 bytes).
+Output written on "Clifton McKee CV alt.pdf" (15 pages, 206034 bytes).
 PDF statistics:
- 193 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
+ 197 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
