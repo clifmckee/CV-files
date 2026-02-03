@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2023.1.10)  27 JAN 2026 13:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2023.1.10)  3 FEB 2026 10:52
 entering extended mode
 **"./Clifton McKee CV.tex"
 ("Clifton McKee CV.tex"
@@ -535,13 +535,13 @@ Package rerunfilecheck Info: File `"Clifton McKee CV".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 7317 strings out of 481569
- 116444 string characters out of 2905893
+ 7316 strings out of 481569
+ 116436 string characters out of 2905893
  398975 words of memory out of 3000000
- 22404 multiletter control sequences out of 15000+200000
+ 22403 multiletter control sequences out of 15000+200000
  537588 words of font info for 41 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,12n,49p,1050b,450s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 47i,12n,49p,1050b,449s stack positions out of 5000i,500n,10000p,200000b,50000s
  </Users/clifmckee/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/lj
 four/jknappen/ec/dpi600/tcrm0800.pk> </Users/clifmckee/Library/Application Supp
 ort/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0700.pk></Users/c
@@ -559,9 +559,9 @@ ation Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb><
 /Users/clifmckee/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/
 public/amsfonts/cm/cmti12.pfb></Users/clifmckee/Library/Application Support/MiK
 TeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "Clifton McKee CV.pdf" (15 pages, 204961 bytes).
+Output written on "Clifton McKee CV.pdf" (15 pages, 205368 bytes).
 PDF statistics:
- 196 PDF objects out of 1000 (max. 8388607)
+ 199 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
