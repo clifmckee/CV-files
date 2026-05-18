@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2023.1.10)  18 MAR 2026 15:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2023.1.10)  18 MAY 2026 11:15
 entering extended mode
 **"./Clifton McKee CV.tex"
 ("Clifton McKee CV.tex"
@@ -509,28 +509,28 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 90.
  [2] [3] [4] [5] [6] [7] [8]
-Overfull \hbox (2.79831pt too wide) in paragraph at lines 329--333
+Overfull \hbox (2.79831pt too wide) in paragraph at lines 331--335
 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 329--333
+Underfull \hbox (badness 10000) in paragraph at lines 331--335
 
  []
 
 [9] [10]
-Overfull \hbox (1.64311pt too wide) in paragraph at lines 508--509
+Overfull \hbox (1.64311pt too wide) in paragraph at lines 510--511
 \OT1/cmr/m/n/10.95 Bats, bugs, and bio-surveil-lance: de-vel-op-ing One Health 
 sys-tems to un-der-stand and pre-vent pathogen
  []
 
 [11] [12] [13]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 605.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 607.
  [14]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 605.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 607.
  ("Clifton McKee CV.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 605.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 605.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 607.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 607.
 Package rerunfilecheck Info: File `"Clifton McKee CV".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
@@ -541,7 +541,7 @@ Here is how much of TeX's memory you used:
  22403 multiletter control sequences out of 15000+200000
  537588 words of font info for 41 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,12n,49p,1074b,448s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 47i,12n,49p,1074b,449s stack positions out of 5000i,500n,10000p,200000b,50000s
  </Users/clifmckee/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/lj
 four/jknappen/ec/dpi600/tcrm0800.pk> </Users/clifmckee/Library/Application Supp
 ort/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0700.pk></Users/c
@@ -559,9 +559,9 @@ ation Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb><
 /Users/clifmckee/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/
 public/amsfonts/cm/cmti12.pfb></Users/clifmckee/Library/Application Support/MiK
 TeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "Clifton McKee CV.pdf" (14 pages, 203496 bytes).
+Output written on "Clifton McKee CV.pdf" (14 pages, 204288 bytes).
 PDF statistics:
- 196 PDF objects out of 1000 (max. 8388607)
+ 197 PDF objects out of 1000 (max. 8388607)
  15 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
